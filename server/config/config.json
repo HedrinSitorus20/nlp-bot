@@ -15,9 +15,9 @@
   },
   "production": {
     "username": "root",
-    "password": "",
+    "password": null,
     "database": "nlp_bot",
-    "host": "localhost",
-    "dialect": "mysql"
+    "host": "https://nlp-bot.vercel.app",
+    "dialect": "postgre"
   }
 }
